@@ -57,3 +57,4 @@ while True:
     print("Press space to start")
     if keyboard.read_key() == "space":
         nokey()
+        
